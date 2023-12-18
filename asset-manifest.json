@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rest-client/static/css/main.aaf4b101.css",
+    "main.js": "/rest-client/static/js/main.29dfb1c0.js",
+    "index.html": "/rest-client/index.html",
+    "main.aaf4b101.css.map": "/rest-client/static/css/main.aaf4b101.css.map",
+    "main.29dfb1c0.js.map": "/rest-client/static/js/main.29dfb1c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaf4b101.css",
+    "static/js/main.29dfb1c0.js"
+  ]
+}
